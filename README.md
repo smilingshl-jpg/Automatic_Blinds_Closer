@@ -1,7 +1,7 @@
 # Automatic_Blinds_Closer
 This repository holds all information versions and changes made in the process of making an Arduino based automatic blinds closer.
 # Problem
-I learned that waking up with natural sunlight helps with energy and alertness, and since I sleep with the blinds closed I wanted to automaticall open them
+I learned that waking up with natural sunlight helps with energy and alertness, and since I sleep with the blinds closed I wanted to automatically open them
 # Solution
 This project uses photoresistors, IR remotes, or wifi connected apps as valid methods to control the openness of the blinds. 
 - Photoresistor: Gagues light in the room and opens or closes based amount of light
