@@ -9,7 +9,7 @@ This project uses photoresistors, IR remotes, or wifi connected apps as valid me
 - Wifi App: Can control the openness of the blinds manually and setup times to open and close the blinds based on what is set up in the app, and if full of other features
 # Versions
 ### 1st Version:
-I want it to automatically open or close when the sun is out, using a phot resistor
+I want it to automatically open or close when the sun is out, using a photo resistor
 ### 2nd Version:
 I want it to now be controlled by an IR Remote 
 ### 3rd Version:
