@@ -15,7 +15,7 @@ I want it to now be controlled by an IR Remote
 ### 3rd Version:
 I want it to connect to an app using a wifi module and then be controlled by the app and have more features
 ## Final Features List:
-  Automatic Blind Closing via app 
-  Set Time for opening and closing 
-  Predictive Auto Closing
+  - Automatic Blind Closing via app 
+  - Set Time for opening and closing 
+  - Predictive Auto Closing
 # Demo
